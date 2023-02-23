@@ -1,0 +1,33 @@
+
+
+                <div class="alltblt">
+
+                  <table  class="tblst" id="tb">
+                    <tr class="chckupINFO">
+                      <td class="numb">Emergency Hotline	  –</td>
+                      <td class="num">1111 / 011 111 1111</td>
+                    </tr>
+                  </table>
+
+                  <table  class="tblst" id="tb">
+                    <tr class="chckupINFO">
+                      <td class="numb">General Line	  – </td>
+                      <td class="num">011 111 1111</td>
+                    </tr>
+                  </table>
+
+                  <table  class="tblst" id="tb">
+                    <tr class="chckupINFO">
+                      <td class="numb">Fax	  –</td>
+                      <td class="num">011 111 1111</td>
+                    </tr>
+                  </table>
+
+                  <table  class="tblst" id="tb">
+                    <tr class="chckupINFO">
+                      <td class="numb">Email	  –</td>
+                      <td class="num">ExampleEmail@gmail.coom</td>
+                    </tr>
+                  </table>
+
+                </div>
